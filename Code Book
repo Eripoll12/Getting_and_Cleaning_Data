@@ -96,3 +96,4 @@ All variables are the mean of a measurement for each subject and activity. All v
  - FrequencyuencyBodyBodyGyroJerkMag.Mean                 
  - FrequencyuencyBodyBodyGyroJerkMag.Std                  
  - FrequencyuencyBodyBodyGyroJerkMag.MeanFrequency 
+
